@@ -1,3 +1,8 @@
+/*
+Copyright 2016 by Ed Leighton-Dick
+Licensed under terms of the MIT License. Full license terms available at https://github.com/eleightondick/public/tree/master/system_health/LICENSE.
+*/
+
 DECLARE @shPath nvarchar(1000);
 DECLARE @searchPattern nvarchar(1000) = '%\system_health_%.xel%';
 
