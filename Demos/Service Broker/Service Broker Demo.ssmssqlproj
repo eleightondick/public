@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Service Broker Demo">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="WIN-AMA1QA1DEFA:WIN-AMA1QA1DEFA\Ed Leighton-Dick">
+          <Created>2014-09-20T11:16:38.7732902-05:00</Created>
+          <Type>SQL</Type>
+          <Server>WIN-AMA1QA1DEFA</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1 - Basic SB Setup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-AMA1QA1DEFA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-AMA1QA1DEFA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 - Basic SB Setup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2 - Sending.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-AMA1QA1DEFA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-AMA1QA1DEFA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2 - Sending.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3 - Receiving.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-AMA1QA1DEFA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-AMA1QA1DEFA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3 - Receiving.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4 - Basic activation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-AMA1QA1DEFA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-AMA1QA1DEFA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4 - Basic activation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Purge conversations.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Purge conversations.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Reset Demo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-AMA1QA1DEFA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-AMA1QA1DEFA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Reset Demo.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <startup> 
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+  </startup>
+  <appSettings>
+    <add key="twitter_ConsumerKey" value="YourConsumerKeyHere"/>
+    <add key="twitter_ConsumerSecret" value="YourConsumerSecretHere"/>
+    <add key="twitter_AccessToken" value="YourAccessTokenHere"/>
+    <add key="twitter_AccessTokenSecret" value="YourAccessTokenSecretHere"/>
+    <add key="sms_requestUrl" value="YourAzureRequestUrlHere"/>
+  </appSettings>
+  <connectionStrings>
+    <clear />
+    <add name="brokerServer" providerName="System.Data.SqlClient" connectionString="Data Source=YourServer;Initial Catalog=SBDemo;Integrated Security=true;"/>
+  </connectionStrings>
+</configuration>
