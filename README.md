@@ -1,9 +1,7 @@
 # Public Code Repository - Ed Leighton-Dick
-
 ---
-**I'm moving demo code from this repository into separate repositories by session. Please refer to my [repository list](https://github.com/eleightondick) for the new location.**
+#### I'm moving demo code from this repository into separate repositories by session. Please refer to my [repository list](https://github.com/eleightondick) for the new location.
 ---
-
 ## License
 Except as otherwise indicated, this work is licensed under a [Creative Commons LicenseCreative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/ "CC-BY-NC-ND-4.0"). This license has the following terms:
 
